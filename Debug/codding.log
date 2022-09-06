@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\OneEyeHealer\Code\codding\Source.cpp(14,20): warning C4018: '<': signed/unsigned mismatch
+D:\OneEyeHealer\Code\codding\Source.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+D:\OneEyeHealer\Code\codding\Source.cpp(140,20): warning C4018: '<': signed/unsigned mismatch
+D:\OneEyeHealer\Code\codding\Source.cpp(213,20): warning C4018: '<': signed/unsigned mismatch
+D:\OneEyeHealer\Code\codding\Source.cpp(239,20): warning C4018: '<': signed/unsigned mismatch
+  codding.vcxproj -> D:\OneEyeHealer\Code\codding\Debug\codding.exe
